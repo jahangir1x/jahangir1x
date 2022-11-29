@@ -1,5 +1,5 @@
-![HARDCORE PROGRAMMING!](https://zinis.xyz/images/super-pc-guy.gif "HARDCORE PROGRAMMING")
-- 👋 Hi, I’m @x00jahangir
+![Trippy GIF!](res/load.gif "...")
+- 👋 Hi, I’m @jahangir1x
 - 👀 I’m interested in `Unity`, `Express`, `React`.
 - 🌱 I’m currently learning `Augmented Reality` for Android.
 - 💞️ I’m looking to collaborate on `Game development` and `Web development`.

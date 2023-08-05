@@ -1,4 +1,3 @@
-![Trippy GIF!](res/load.gif "...")
 - 👋 Hi, I’m @jahangir1x
 - 👀 I’m interested in `Unity`, `Django REST framework`.
 - 🌱 I’m currently experimenting with `Augmented Reality` for Android.

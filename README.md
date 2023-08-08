@@ -16,7 +16,7 @@ I have been building apps, APIs and tools with different teams and organizations
 <!-- ![github overview stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahangir1x&theme=transparent) -->
 
 <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahangir1x&theme=transparent" alt="language stats based on repos" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jahangir1x&theme=transparent" alt="language stats based on commits" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahangir1x&theme=transparent&utcOffset=6" alt="productive time stats based on utc+6" />
+    <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="language stats based on repos" />
+    <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="language stats based on commits" />
+    <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="productive time stats based on utc+6" />
 </p>

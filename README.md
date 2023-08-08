@@ -13,7 +13,7 @@ I have been building apps, APIs and tools with different teams and organizations
 
 ## 📊 Github stats:
 
-![github overview stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahangir1x&theme=transparent)
+<!-- ![github overview stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahangir1x&theme=transparent) -->
 
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahangir1x&theme=transparent" alt="language stats based on repos" />

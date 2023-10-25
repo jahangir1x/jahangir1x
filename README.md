@@ -1,7 +1,7 @@
 # Hey! I'm [@jahangir1x](https://github.com/jahangir1x) (Jahangir Alam) 👋
 
-I'm a software developer from [Rajshahi, Bangladesh. 🇧🇩](https://goo.gl/maps/U1H6bHT7XYhkK6tk7)
-I have been building apps, APIs and tools with different teams and organizations. 🌎
+I'm a software developer from [Rajshahi, Bangladesh 🇧🇩.](https://goo.gl/maps/U1H6bHT7XYhkK6tk7)
+I have been building apps, APIs and tools with different teams and organizations 🌎.
 
 ## 🔗 You can find me on:
 

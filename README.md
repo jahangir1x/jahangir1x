@@ -9,7 +9,7 @@ I have been building apps, APIs and tools with different teams and organizations
 * [GitHub as @jahangir1x (you are here)](https://github.com/jahangir1x)
 * [LinkedIn](https://linkedin.com/in/jahangir1x)
 * [Mail](mailto:x00jahangir@gmail.com)
-* [Facebook](https://fb.me/rocky.0x00)
+* [Facebook](https://fb.me/rocky10x)
 
 ## 📊 Github stats:
 
